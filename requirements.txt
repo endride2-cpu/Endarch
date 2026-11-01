@@ -1,0 +1,4 @@
+openai>=1.0
+requests>=2.28
+Pillow>=9.0
+# opsional: ebooklib (round-trip di validate_epub)

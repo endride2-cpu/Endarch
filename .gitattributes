@@ -1,0 +1,22 @@
+# Normalize all text files to LF so the tree behaves the same on Windows/Linux.
+* text=auto eol=lf
+
+*.py    text eol=lf
+*.md    text eol=lf
+*.json  text eol=lf
+*.txt   text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+
+# Binary assets — never convert.
+*.epub  binary
+*.pdf   binary
+*.ttf   binary
+*.otf   binary
+*.woff  binary
+*.woff2 binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.webp  binary
+*.zip   binary

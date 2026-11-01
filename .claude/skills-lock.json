@@ -1,0 +1,56 @@
+[
+  {
+    "name": "impeccable",
+    "repository": "https://github.com/pbakaus/impeccable",
+    "source_path": ".claude/skills/impeccable",
+    "commit": "4f956490f0056ae1ff5ea80372cf56e83c001d3c"
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "source_path": ".claude/skills/ui-ux-pro-max",
+    "commit": "bf41cbc3ce63e30c922e58ef48741ba6133f9aa9"
+  },
+  {
+    "name": "systematic-debugging",
+    "repository": "https://github.com/obra/superpowers",
+    "source_path": "skills/systematic-debugging",
+    "commit": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b"
+  },
+  {
+    "name": "android-cli",
+    "repository": "https://github.com/android/skills",
+    "source_path": "devtools/android-cli",
+    "commit": "6daa53ef27fa2aa87827d183a85c06cedceca833"
+  },
+  {
+    "name": "jetpack-compose-performance",
+    "repository": "https://github.com/android/skills",
+    "source_path": "jetpack-compose/jetpack-compose-performance",
+    "commit": "6daa53ef27fa2aa87827d183a85c06cedceca833"
+  },
+  {
+    "name": "testing-setup",
+    "repository": "https://github.com/android/skills",
+    "source_path": "testing/testing-setup",
+    "commit": "6daa53ef27fa2aa87827d183a85c06cedceca833"
+  },
+  {
+    "name": "anr-audit-and-fix",
+    "repository": "https://github.com/android/skills",
+    "source_path": "performance/anr-audit-and-fix",
+    "commit": "6daa53ef27fa2aa87827d183a85c06cedceca833"
+  },
+  {
+    "name": "ponytail",
+    "repository": "https://github.com/DietrichGebert/ponytail",
+    "source_path": "skills/ponytail",
+    "commit": "96608e078b2d5ea607c5c3b8b5a54d1c1fba6846"
+  },
+  {
+    "name": "caveman",
+    "repository": "https://github.com/JuliusBrussee/caveman",
+    "source_path": "skills/caveman",
+    "commit": "9b68f7ed12b05e7efaff18e65c5a3fc2849fd0a4"
+  }
+]

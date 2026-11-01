@@ -1,0 +1,4 @@
+{
+  "flags": ["AMBIGU", "MISMATCH", "EN≠RAW", "UNCERTAIN", "REVISED"],
+  "forbidden": ["Kak", "Kakak", "Bang", "Mas", "Noona", "Unnie", "Seonbae", "Oppa-oppa"]
+}
